@@ -8,6 +8,17 @@ I spent some time writing up a "reverse_engineering" folder, which contains a to
 
 Important note: I am not actively updating this anymore. But, PULL REQUESTS ARE WELCOME AND ENCOURAGED. There are some things missing, and some potential things that can be improved. Most notably, the current entity deletion detection in the "u" packet is based on a heuristic as the complete entity deletion system is unsolved. I will accept and allow any improvements to be merged--I am just not actively working on this myself. 
 
+Some notable things that could be improved on or added (again, any improvements to these will be accepted with pull requests):
+
+`
+Previously mentioned, improving the "u" packet entity death detection heuristic or solving the "canon" way to detect entity death.
+"C"ontrol packet direction of movement flags for QOL instead of key pressing (only handled facing).
+"F" packet (death packet) parser.
+Mockup parser additions and improvements.
+More rigorous handling of all packets/parsers (especially Room and potentially the MapManager that utilizes Room) to ensure error mitigation.
+And there's loads more that can be done, these are just a few examples that I would say are the more interesting and if anyone wants to tackle their own work stemming from this, I'd start with these.
+`
+
 Old readme stuff below.
 
 A custom arras.io client of mine with a ton of neat features--included fully decoded packets and parsing for them.
