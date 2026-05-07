@@ -1,4 +1,4 @@
-# arras.io-reversed-protocol-client-and-library
+# reverse-engineered-arras.io
 I am now publicly releasing this specialized client of mine from which I did my reverse engineering work on arras given the poor state this game has found itself in.
 I never fully completed everything and this client is missing some stuff, but it has almost everything of importance. It is a great base to work with, and really does have a ton of useful stuff. Seeing as I have virtually quit this game, I didn't want this code to go to waste.
 
