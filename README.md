@@ -1,5 +1,5 @@
 # reverse-engineered-arras.io
-The most in depth and advanced arras.io reverse engineering work that is valid post-2022 (after WASM additions to arras.io), including full packet hooking, decoding, multiple parsers for sending and recieving packets, & more.
+The most in depth and advanced arras.io reverse engineering work that is valid post-2022 (after WASM additions to arras.io), including full packet hooking, decoding, access to protocol, multiple parsers for sending and receiving packets, & more.
 
 I am now publicly releasing this specialized client of mine from which I did my reverse engineering work on arras given the poor state this game has found itself in.
 I never fully completed everything and this client is missing some stuff, but it has almost everything of importance. It is a great base to work with, and really does have a ton of useful stuff. Seeing as I have virtually quit this game, I didn't want this code to go to waste.
