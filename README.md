@@ -10,8 +10,7 @@ Important note: I am not actively updating this anymore. But, PULL REQUESTS ARE 
 
 Some notable things that could be improved on or added (again, any improvements to these will be accepted with pull requests):
 
-`
-Previously mentioned, improving the "u" packet entity death detection heuristic or solving the "canon" way to detect entity death.
+`Previously mentioned, improving the "u" packet entity death detection heuristic or solving the "canon" way to detect entity death.
 
 "C"ontrol packet direction of movement flags for QOL instead of key pressing (only handled facing).
 
@@ -21,8 +20,7 @@ Mockup parser additions and improvements.
 
 More rigorous handling of all packets/parsers (especially Room and potentially the MapManager that utilizes Room) to ensure error mitigation.
 
-And there's loads more that can be done, these are just a few examples that I would say are the more interesting and if anyone wants to tackle their own work stemming from this, I'd start with these.
-`
+And there's loads more that can be done, these are just a few examples that I would say are the more interesting and if anyone wants to tackle their own work stemming from this, I'd start with these.`
 
 Old readme stuff below.
 
